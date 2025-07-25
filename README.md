@@ -1,9 +1,12 @@
-## Hi there 👋, I'm Zi Yang
+# 👋 Hi there, I'm Zi Yang!
 
+🚀 Passionate developer with expertise in full-stack development, building scalable applications, and solving complex problems with clean, efficient code.
+
+---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### **Programming Languages**
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -14,7 +17,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
-    <a href"https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -25,27 +28,28 @@
     </a>
 </p>
 
-###Frameworks
+### **Frameworks & Libraries**
 <p align="left">
-    <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     </a>
-    <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/>
     </a>
 </p>
 
-###Databases
+### **Databases**
+<p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
-    <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="FireStore" width="40" height="40"/>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
     </a>
 </p>
