@@ -31,6 +31,7 @@
     </a>&nbsp
 </p>
 
+
 ### **Frameworks & Libraries**
 <p align="left">
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
@@ -44,6 +45,7 @@
     </a>&nbsp
 </p>
 
+
 ### **Databases**
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -55,6 +57,26 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="FireStore" width="40" height="40"/>
     </a>&nbsp
+</p>
+
+
+### **Developer Tools**
+<p align="left">
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
+    </a>&nbsp
+    <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+    </a>&nbsp
+    <a href="https://azure.microsoft.com/en-gb/ target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Supabase" width="40" height="40"/>
+    </a>&nbsp
+    <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Supabase" width="40" height="40"/>
+    </a>&nbsp
+    <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Supabase" width="40" height="40"/>
+    </a>&nbsp      
 </p>
 
 
