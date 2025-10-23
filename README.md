@@ -80,7 +80,7 @@
 </p>
 
 ### **AI/ML**
-<p align
+<p align="left"> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.png" alt="LangChain" width="40" height="40"/>
 
 
 
